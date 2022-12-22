@@ -15,7 +15,7 @@ Concept:
 
 ----------------------------------------------------------------------------------------------------------------------------
 
-TOPIC : Physical Fitness & BMI Calculator
+Topic : Physical Fitness & BMI Calculator
 Concept:
 ●	It gets the user details ,such as name,age,gender as input and calculates the BMI with required details
 
